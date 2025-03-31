@@ -36,8 +36,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png" alt="rest api" width="40" height="40"/> 
-  </a> 
+ 
 </p>
 
