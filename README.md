@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seema Poudel</h1>
-<h3 align="center">I'm a passionate beginner eager to learn and grow in the field of frontend development.</h3>
+<h3 align="center">Beginner Python programmer focused on building real ML solutions .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemapoudel58&label=Profile%20views&color=0e75b6&style=flat" alt="seemapoudel58" /> </p>
 
